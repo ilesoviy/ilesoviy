@@ -1,23 +1,19 @@
 <div align="center">
 <img src="" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">I'm a enthusiastic blockchain and full stack web engineer🏃 who like dive in🏊‍♂️ new area of software technology.💫</div>  
-  
+### <div align="center">I'm a Senior Blockchain and Full-Stack Developer
+🏃 who like dive in
+🏊‍♂️ new area of software technology.
+💫</div>  
 
 - 🌱 I’m currently passionate in Blockchain development.  
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
-### Frontend  
+### Frontend
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -44,8 +40,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
@@ -64,8 +58,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
