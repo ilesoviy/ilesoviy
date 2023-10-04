@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Dotnet Star</h1>
-<h3 align="center">A Full-stack .Net & Blockchain Developer</h3>
+<h1 align="center">Hi 👋, I'm CryptoPrince!</h1>
+<h3 align="center">Senior Full-stack & Blockchain Engineer</h3>
 
 ### About Me 😊
 - Like to make a development document with developing content to use that in the future.
-- Delivering perfect results at any time.
-- Keeping good communication and work on the client's time zone.
+- Delivering perfect results by deadline.
+- Keeping good communication and work on the client's timezone.
 - Ability for working with any team and prefer to share much knowledge with many developers.
 - Looking for an opportunity to build a long-term relationship with great clients all over the world.
 
 ### Languages  
 
 <span>
-<img alt="TypeScript" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  
+
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Solidity" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="RUST" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
