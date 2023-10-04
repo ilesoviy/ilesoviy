@@ -10,6 +10,7 @@ Highly skilled Blockchain engineer bringing enormous talents of development of D
 
 
 # 🚀 SKILLS
+<!--
 ## 💻 OS
 <span>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -24,6 +25,7 @@ Highly skilled Blockchain engineer bringing enormous talents of development of D
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </span>
+-->
 
 ## FrontEnd
 <span>
@@ -112,8 +114,10 @@ Highly skilled Blockchain engineer bringing enormous talents of development of D
 </span>
 </p>
 </span>
-- Ethereum, Binance, Polygon, Arbitrum, Avalanche, Solana, Aptos, Cosmos, Polkadot <br/>
-- DeFi, Dex, Token, ICO, NFT <br/>
+- Ethereum, Binance, Polygon, Arbitrum, Avalanche, Solana, Aptos/Sui, Stellar, Cosmos, Polkadot <br/>
+- Token, ICO, IDO <br/>
+- DeFi, DEX, NFT marketplace <br/>
+- GMX, Tornado Cash <br/>
 - Cross-chain bridge <br/>
 - Hardhat, Truffle, Remix <br/>
 - Solidity, Rust, Go <br/>
