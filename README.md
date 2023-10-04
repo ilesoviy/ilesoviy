@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ivan Lesoviy!</h1>
-
 # 💫 About Ivan Lesoviy
 Senior Full-Stack with 5+ years of experience and Blockchain developer with 5 years of experience.<br>
 Experienced Full-Stack developer adapt in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set.<br>
