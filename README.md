@@ -110,7 +110,6 @@ Highly skilled Blockchain engineer bringing enormous talents of development of D
   <br/>
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
   <img alt="RUST" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-</span>
 - Ethereum, Binance, Polygon, Arbitrum, Avalanche, Solana, Aptos, Cosmos, Polkadot
 - DeFi, Dex, Token, ICO, NFT
 - Cross-chain bridge
@@ -118,6 +117,7 @@ Highly skilled Blockchain engineer bringing enormous talents of development of D
 - Solidity, Rust, Go
 - Web3.js, Cosm.js
 - React, Vue.js, Angular
+</span>
 
 ## 🥅 Work/Jobs
 ![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
