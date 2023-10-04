@@ -97,6 +97,7 @@ Highly skilled Blockchain engineer bringing enormous talents of development of D
 </span>
 
 ## 💲 Blockchain
+<p>
 <span>
   <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
   <img alt="Binance" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" />
@@ -110,13 +111,16 @@ Highly skilled Blockchain engineer bringing enormous talents of development of D
   <br/>
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
   <img alt="RUST" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-- Ethereum, Binance, Polygon, Arbitrum, Avalanche, Solana, Aptos, Cosmos, Polkadot
-- DeFi, Dex, Token, ICO, NFT
-- Cross-chain bridge
-- Hardhat, Truffle, Remix
-- Solidity, Rust, Go
-- Web3.js, Cosm.js
-- React, Vue.js, Angular
+</span>
+</p>
+</span>
+- Ethereum, Binance, Polygon, Arbitrum, Avalanche, Solana, Aptos, Cosmos, Polkadot <br/>
+- DeFi, Dex, Token, ICO, NFT <br/>
+- Cross-chain bridge <br/>
+- Hardhat, Truffle, Remix <br/>
+- Solidity, Rust, Go <br/>
+- Web3.js, Cosm.js <br/>
+- React, Vue.js, Angular <br/>
 </span>
 
 ## 🥅 Work/Jobs
