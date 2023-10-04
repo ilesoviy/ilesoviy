@@ -153,10 +153,8 @@ Highly skilled Blockchain engineer bringing enormous talents of development of D
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 📊 GitHub Stats
-<span align="left">
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ilesoviy&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
-</span>
 <span align="right">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ilesoviy&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
