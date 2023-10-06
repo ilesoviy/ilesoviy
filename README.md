@@ -10,23 +10,6 @@ Highly skilled Blockchain engineer bringing enormous talents of development of D
 
 
 # 🚀 SKILLS
-<!--
-## 💻 OS
-<span>
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img alt="CENT OS" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" />
-  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Mac OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-  <img alt="SUSE" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</span>
--->
-
 ## FrontEnd
 <span>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -198,9 +181,6 @@ Highly skilled Blockchain engineer bringing enormous talents of development of D
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ilesoviy&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ilesoviy&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hightop0924&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
-<!--
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilesoviy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ---
-[![](https://visitcount.itsvg.in/api?id=ilesoviyicon=0&color=0)](https://visitcount.itsvg.in)
--->
+[![](https://visitcount.itsvg.in/api?id=ilesoviy&icon=0&color=0)](https://visitcount.itsvg.in)
