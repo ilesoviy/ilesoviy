@@ -1,7 +1,7 @@
 # 💫 About Me
-Senior Full-Stack with 5+ years of experience and Blockchain developer with 5 years of experience.<br>
-Experienced Full-Stack developer adapt in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set.<br>
+Senior Blockchain developer with 5 years of experience and Full-Stack with 5+ years of experience.<br>
 Highly skilled Blockchain engineer bringing enormous talents of development of DEX, DeFi, Stacking, Farming and NFT marketplace. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.<br>
+Experienced Full-Stack developer adapt in all stages of advanced development. Knowledgeable in user interface, testing and debugging processes. Equipped with a diverse and promising web development skill-set.<br>
 - Like to make a development document with developing content to use that in the future.
 - Delivering perfect results by deadline.
 - Keeping good communication and work on the client's timezone.
@@ -10,6 +10,35 @@ Highly skilled Blockchain engineer bringing enormous talents of development of D
 
 
 # 🚀 SKILLS
+## 💲 Blockchain
+<p>
+<span>
+  <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img alt="Binance" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" />
+  <img alt="Chainlin" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img alt="DogeCoin" src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white" />
+  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+  <img alt="Polkadot" src="https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000" />
+  <img alt="Stellar" src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white" />
+  <img alt="Tether" src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" />
+  <img alt="XRP" src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" />
+  <br/>
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img alt="RUST" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</span>
+</p>
+</span>
+- Ethereum, Binance, Polygon, Arbitrum, Avalanche, Solana, Aptos/Sui, Stellar, Cosmos, Polkadot <br/>
+- Token, ICO, IDO <br/>
+- DeFi, DEX, NFT marketplace <br/>
+- GMX, Tornado Cash <br/>
+- Cross-chain bridge <br/>
+- Hardhat, Truffle, Remix <br/>
+- Solidity, Rust, Go <br/>
+- Web3.js, Cosm.js <br/>
+- React, Vue.js, Angular <br/>
+</span>
+
 ## FrontEnd
 <span>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -77,35 +106,6 @@ Highly skilled Blockchain engineer bringing enormous talents of development of D
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-</span>
-
-## 💲 Blockchain
-<p>
-<span>
-  <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <img alt="Binance" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" />
-  <img alt="Chainlin" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img alt="DogeCoin" src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white" />
-  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
-  <img alt="Polkadot" src="https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000" />
-  <img alt="Stellar" src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white" />
-  <img alt="Tether" src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" />
-  <img alt="XRP" src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" />
-  <br/>
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img alt="RUST" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-</span>
-</p>
-</span>
-- Ethereum, Binance, Polygon, Arbitrum, Avalanche, Solana, Aptos/Sui, Stellar, Cosmos, Polkadot <br/>
-- Token, ICO, IDO <br/>
-- DeFi, DEX, NFT marketplace <br/>
-- GMX, Tornado Cash <br/>
-- Cross-chain bridge <br/>
-- Hardhat, Truffle, Remix <br/>
-- Solidity, Rust, Go <br/>
-- Web3.js, Cosm.js <br/>
-- React, Vue.js, Angular <br/>
 </span>
 
 ## 🚀 TechStack
