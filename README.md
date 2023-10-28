@@ -28,14 +28,14 @@ Experienced Full-Stack developer adapt in all stages of advanced development. Kn
 </span>
 </p>
 </span>
-- Ethereum, Binance, Polygon, Arbitrum, Avalanche, Solana, Aptos/Sui, Stellar, Cosmos, Polkadot <br/>
+- Ethereum, BSC, Polygon, Arbitrum, Avalanche, Solana, Aptos/Sui, Stellar, Cosmos, Polkadot <br/>
 - Token, ICO, IDO <br/>
 - DeFi, DEX, NFT marketplace <br/>
 - GMX, Tornado Cash <br/>
 - Cross-chain bridge <br/>
-- Hardhat, Truffle, Remix <br/>
+- Truffle, Hardhat, Remix <br/>
 - Solidity, Rust, Go <br/>
-- Web3.js, Cosm.js <br/>
+- Web3.js, Ethers.js, Cosm.js <br/>
 - React, Vue.js, Angular <br/>
 </span>
 
